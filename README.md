@@ -90,7 +90,7 @@ seaborn==0.13.0`
 
 - Open a terminal
 
-- `docker build -t midterm_project` .
+- `docker build -t midterm_project .`
 
 - `docker run -it --rm -p 6969:6969 midterm_project`
 
